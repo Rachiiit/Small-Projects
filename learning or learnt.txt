@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+random
+math
+pygame
+tkinter
+IPython
+smtplib
+SpeechRecognition
+PyAudio
